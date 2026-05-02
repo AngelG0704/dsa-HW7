@@ -60,6 +60,7 @@ Error Response Format
 DTOs Section
 
 Requests use TaskRequest: only title, description, completed, priority
+
 Responses return TaskResponse: includes id, timestamps, excludes internal fields
 
 Video Submission-
