@@ -14,8 +14,7 @@ Maven
 
 2. Clone Repository 
 
-git clone https://github.com/AngelG0704/Homework-5.git
-
+git clone https://github.com/AngelG0704/dsa-HW7.git
 cd campus-taskboard
 
 3. Run the application
